@@ -1,7 +1,7 @@
 import pygame
 pygame.init()
-pygame.font.init()
-pygame.mixer.init()
+pygame.font.init()        ## to initialize font library
+pygame.mixer.init()       ## TO initialize sound library
 
 
 WIDTH=1000
